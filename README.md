@@ -3,7 +3,7 @@
 I'm a Web Developer and I'm quite passionate in what I'm doing. I produce cross-browsing web pages using my skills in HTML, CSS and Java Script which I develop every day to be more profficient in the sphere of Web Development. Besides I also learn React.js and have skills in using jQuery library in my projects.  
 
 
-###My skills
+### My skills
 - HTML
 - CSS
 - Java Script
