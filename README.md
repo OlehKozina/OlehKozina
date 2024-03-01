@@ -6,7 +6,7 @@ I'm a Web Developer and I'm quite passionate in what I'm doing. I produce cross-
 ### My skills
 - HTML
 - CSS
-- Java Script
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="" />
 - jQuery
 - Wordpress
 - Figma
