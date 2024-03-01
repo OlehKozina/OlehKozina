@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Oleg!
+
+I'm a Web Developer and I'm quite passionate in what I'm doing. I produce cross-browsing web pages using my skills in HTML, CSS and JS which I develop every day to be more profficient in the sphere of Web Development. Besides I also learn React.js and have skills in using jQuery library in my projects.  
+
+
 
 <!--
 **OlegKozina/OlegKozina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
