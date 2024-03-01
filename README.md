@@ -4,13 +4,18 @@ I'm a Web Developer and I'm quite passionate in what I'm doing. I produce cross-
 
 
 ### My skills
-- HTML
-- CSS
-   <img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="" />
-- jQuery
-- Wordpress
-- Figma
-- WebPack
+<img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="" />
+<img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="" />
+<img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="" />
+<img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" alt="" />
+<img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" alt="" />
+<img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="" />
+<img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack.svg" alt="" />
+<img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="" />
+<img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="" />
+<img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ableton-Dark.svg" alt="" />
+<img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" alt="" />
+<img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="" />
 <!--
 **OlegKozina/OlegKozina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
