@@ -1,7 +1,6 @@
 ### Hi, I'm Oleg!👋
 
-I'm a Front-end Developer with an extreme passion for what I'm doing. I produce cross-browsing websites that are both functional and aesthetically appealing. I keep myself updated with all the latest changes and trends so that all my projects are built according to the latest standards. Besides I develop my skills every day to be more efficient in the sphere of Web Development.
-
+I'm a Front-end Developer with an extreme passion for web development. I produce cross-browsing websites that are both functional and aesthetically appealing. I keep myself updated with all the latest changes and trends so that all my projects built according to the latest standards. Furthermore I develop my skills regularly to be more efficient in  Web Development.
 I'm an excellent problem-solver with perfect communication skills. I am looking for an opportunity to apply my skills and knowledge to make a beneficial impact on the web.
 
 
