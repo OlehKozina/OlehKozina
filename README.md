@@ -6,8 +6,8 @@
 
 &nbsp;&nbsp;&nbsp;Explore My Best Work:
 1. https://github.com/OlegKozina/DogSite A website created for dog daycare services company
-2. https://github.com/OlegKozina/Bakery-Site A website for a bakery company
-3. https://github.com/OlegKozina/BeautyZone-Site A landing page website for local beauty clinic
+2. https://github.com/OlegKozina/BeautyZone-Site A landing page website for local beauty clinic
+3. https://github.com/OlegKozina/Bakery-Site A website for a bakery company
 4. https://github.com/OlegKozina/React_Furniture-Site A website for a furniture company, created using React framework
 
 
