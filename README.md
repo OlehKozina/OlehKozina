@@ -5,10 +5,10 @@
 &nbsp;&nbsp;&nbsp;I'm an excellent problem-solver with perfect communication skills. I am looking for an opportunity to apply my skills and knowledge to make a beneficial impact on the web.
 
 &nbsp;&nbsp;&nbsp;Explore My Best Work:
-1. https://github.com/OlegKozina/DogSite A website created for dog daycare services company
-2. https://github.com/OlegKozina/BeautyZone-Site A landing page website for local beauty clinic
-3. https://github.com/OlegKozina/Bakery-Site A website for a bakery company
-4. https://github.com/OlegKozina/React_Furniture-Site A website for a furniture company, created using React framework
+1. https://github.com/OlehKozina/DogSite A website created for dog daycare services company
+2. https://github.com/OlehKozina/BeautyZone-Site A landing page website for local beauty clinic
+3. https://github.com/OlehKozina/Bakery-Site A website for a bakery company
+4. https://github.com/OlehKozina/React_Furniture-Site A website for a furniture company, created using React framework
 
 
 &nbsp;&nbsp;&nbsp;These projects not only reflect my technical proficiency but also emphasize my ability to collaborate, innovate, and deliver high-quality results. I'm always eager to take on new challenges and contribute to exciting projects, so please feel free to reach out with any inquiries or opportunities.
