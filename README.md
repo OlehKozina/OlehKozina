@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;I'm a **Web Developer** passionate about building modern, responsive, and user-friendly websites.  I create clean, performant code and design websites that are both functional and visually appealing. I stay up to date with the latest web trends and continuously improve my skills to deliver projects that meet modern standards.
  
  💻 Professional work:
-1. [Hoyne Brewing Co.](https://www.hoynebrewing.ca/) – Developed and maintained features while working at Gearbox.
+1. [Hoyne Brewing Co.](https://www.hoynebrewing.ca/) – Designed and developed the full company website while working at Gearbox.
 2. Other client websites (contributed to front-end features, styling, and optimizations).
 
 🚀 Personal Projects:
