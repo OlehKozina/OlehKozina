@@ -1,19 +1,20 @@
 ## Hi, I'm Oleh!👋
 
-&nbsp;&nbsp;&nbsp;I'm a **Web Developer** with an extreme passion for website creation. I produce cross-browsing websites that are both functional and aesthetically appealing. I keep myself updated with all the latest changes and trends so that all my projects are built according to the latest standards. Furthermore, I develop my skills regularly to be more efficient in  Web Development.
+&nbsp;&nbsp;&nbsp;I'm a **Web Developer** passionate about building modern, responsive, and user-friendly websites.  I create clean, performant code and design websites that are both functional and visually appealing. I stay up to date with the latest web trends and continuously improve my skills to deliver projects that meet modern standards.
+ 
+ 💻 Professional work:
+1. [Hoyne Brewing Co.](https://www.hoynebrewing.ca/) – Developed and maintained features while working at Gearbox.
+2. Other client websites (contributed to front-end features, styling, and optimizations).
 
-&nbsp;&nbsp;&nbsp;I'm an excellent problem-solver with perfect communication skills. I am looking for an opportunity to apply my skills and knowledge to make a beneficial impact on the web.
-
-&nbsp;&nbsp;&nbsp;Explore My Best Work:
+🚀 Personal Projects:
 1. https://github.com/OlehKozina/DogSite A website created for dog daycare services company
 2. https://github.com/OlehKozina/BeautyZone-Site A landing page website for local beauty clinic
 3. https://github.com/OlehKozina/Bakery-Site A website for a bakery company
 4. https://github.com/OlehKozina/Bootstrap_EduSite A landing website created using Bootstrap library
 
+🌱 I’m looking for opportunities where I can apply my skills, grow as a developer, and contribute to impactful projects.
 
-&nbsp;&nbsp;&nbsp;These projects not only reflect my technical proficiency but also emphasize my ability to collaborate, innovate, and deliver high-quality results. I'm always eager to take on new challenges and contribute to exciting projects, so please feel free to reach out with any inquiries or opportunities.
-
-&nbsp;&nbsp;&nbsp;Thank you for stopping by! 🚀
+📫 Feel free to reach out with any inquiries or opportunities!
 
 
 
