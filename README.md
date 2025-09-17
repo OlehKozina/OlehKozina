@@ -8,9 +8,9 @@
 3. Other client websites (contributed to front-end features, styling, and optimizations).
 
 🚀 Personal Projects:
-1. https://github.com/OlehKozina/DogSite A website created for dog daycare services company
-2. https://github.com/OlehKozina/BeautyZone-Site A landing page website for local beauty clinic
-3. https://github.com/OlehKozina/Bakery-Site A website for a bakery company
+1. [https://github.com/OlehKozina/Bakery-Site](https://github.com/OlehKozina/Bakery_NextJs-Sanity) A website for a bakery company
+2. https://github.com/OlehKozina/DogSite A website created for dog daycare services company
+3. https://github.com/OlehKozina/BeautyZone-Site A landing page website for local beauty clinic
 4. https://github.com/OlehKozina/Bootstrap_EduSite A landing website created using Bootstrap library
 
 🌱 I’m looking for opportunities where I can apply my skills, grow as a developer, and contribute to impactful projects.
