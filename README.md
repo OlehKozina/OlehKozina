@@ -4,7 +4,8 @@
  
  💻 Professional work:
 1. [Hoyne Brewing Co.](https://www.hoynebrewing.ca/) – Designed and developed the full company website while working at Gearbox.
-2. Other client websites (contributed to front-end features, styling, and optimizations).
+2. [Animoto Pages](https://animoto.com/video-templates) - Developed a templates page with 500+ templates, filtering, search, and single-template pages with previews
+3. Other client websites (contributed to front-end features, styling, and optimizations).
 
 🚀 Personal Projects:
 1. https://github.com/OlehKozina/DogSite A website created for dog daycare services company
