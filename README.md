@@ -10,8 +10,8 @@
 🚀 Personal Projects:
 1. [https://github.com/OlehKozina/Bakery-Site](https://github.com/OlehKozina/Bakery_NextJs-Sanity) A website for a bakery company
 2. [https://github.com/OlehKozina/DogSite](https://github.com/OlehKozina/dog-club-ok) A website created for dog daycare services company
-3. https://github.com/OlehKozina/BeautyZone-Site A landing page website for local beauty clinic
-4. https://github.com/OlehKozina/Bootstrap_EduSite A landing website created using Bootstrap library
+3. [https://github.com/OlehKozina/BeautyZone-Site](https://github.com/OlehKozina/Beauty_Zone_NextJs) A landing page website for local beauty clinic
+4. [https://github.com/OlehKozina/Bootstrap_EduSite](https://github.com/OlehKozina/React_Furniture_Site) A landing website created for the furniture business company
 
 🌱 I’m looking for opportunities where I can apply my skills, grow as a developer, and contribute to impactful projects.
 
